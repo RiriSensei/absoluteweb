@@ -1,0 +1,27 @@
+body {
+  background-color: #2C3333;
+}
+
+.card {
+  background-color: #2C3333;
+}
+
+.navbar {
+  background-color: #2C3333;
+}
+
+.navbar-brand {
+  padding-left: 50px;
+}
+
+.nav-item {
+  padding: 10px;
+}
+
+p{
+    color: #CBE4DE;
+}
+
+h5{
+    color: azure;
+}
